@@ -1,0 +1,43 @@
+Grading form  CS 110 Java:  CardGame Part I (no GUI)
+
+______%   Final score  (with late penalty if any)
+
+______late coupon used ? 
+
+______%   Score before late penalty of 30%.
+
+
+______  (40) Total points
+    
+Grader Comments:  
+
+
+
+
+
+
+
+Final Part 1 : Card,Deck and Hand implementations
+
+ _______functionality (20): 
+ 
+      _______( 6 )testCard.java shows that Card functions work 
+
+      _______( 7 )testDeck.java shows that Deck functions work
+
+      _______( 7 )testHand.java shows that Hand functions work 
+              
+ 
+ _______style/design (20):  
+              
+ 
+      _______( 6 )implementation of Card.java 
+                       clear coding, reasonable test programs,
+
+      _______( 7 )implementation of Deck.java 
+                      clear coding, reasonable test programs,
+                      use of java  ArrayList appropriately
+
+      _______( 7 )implementation of Hand.java,
+                     use of java ArrayList as indicated in assignment
+             

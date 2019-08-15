@@ -1,0 +1,44 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FrmHello.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FrmHello.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Dropbox\Brian\Group1.Chap6All\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Brian\Dropbox\Brian\Group1.Chap6All\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Brian\Dropbox\Brian\Group1.Chap6All\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Brian\Dropbox\Brian\Group1.Chap6All\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Brian\Dropbox\Brian\Group1.Chap6All\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Brian\Dropbox\Brian\Group1.Chap6All\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Brian\Dropbox\Brian\Group1.Chap6All\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Dropbox\Brian\Group1.Chap6All\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FrmHello.resources
+C:\Users\Brian\Dropbox\Brian\Group1.Chap6All\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Brian\Dropbox\Brian\Group1.Chap6All\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Dropbox\Brian\Group1.Chap6All\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FrmHello.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Revised Ch6_Exercise1\Exercise1WordLoop\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog

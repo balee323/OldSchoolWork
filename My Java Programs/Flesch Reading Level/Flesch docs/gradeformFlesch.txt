@@ -1,0 +1,62 @@
+CS 110 assignment (Java --classes only when assignment calls for them)   
+
+______%   Final score  (with late penalty if any)
+
+______late coupon used ? 
+
+______%   Score before late penalty of 30%.
+
+
+______  Total points
+
+ 
+Grader Comments:     
+
+
+
+
+
+ 
+
+functionality (30): 
+             
+_______(8)Word.java:  syllables counted properly 
+             
+_______(3)WordTest.java:  only has one function: main, uses
+             enough word tests to fully exercise the code.
+             
+_______(8)Sentence.java: counts words and returns the next word   
+             
+_______(3)SentenceTest.java:  only has one function: main, uses
+             enough sentence tests to fully exercise the code.
+             
+_______(8) Flesch.java: prompt the user for the name of the file
+          to be analyzed and then compute and display to the console
+          the name the file processed, followed by the number of syllables,
+          number of words, number of sentences, the Flesch-Kincaid
+          grade level.  
+ 
+ 
+ 
+style/design (20):  
+
+                 
+_______(8)overall identifier names ,spacing, indentation, 
+            constants, and overall readability of code
+            each function is *clear* and clean in design  
+           
+_______(3)locality of variables in Flesch.java 
+             (no class level variables)
+             
+_______(3) javadoc-ready code for documentation similar to that
+           provided as given in Word.html and Sentence.html files,
+           and also similar javadoc style for Flesch.java.
+           (TA can check through JGrasp)
+               
+_______(6)good top/down design of Flesch application,
+             
+
+[Programs whose files do not compile/link and at least
+        build a .class file earn 0 points.
+Points may be deducted if the submission
+       directions are not followed. ]   

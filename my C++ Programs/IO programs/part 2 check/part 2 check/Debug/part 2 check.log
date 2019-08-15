@@ -1,0 +1,15 @@
+﻿Build started 7/27/2012 12:06:21 AM.
+     1>Project "C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 7\part 2 check\part 2 check\part 2 check.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\part 2 check.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "PArt 2 check.cpp"
+         PArt 2 check.cpp
+     1>c:\users\brian\documents\visual studio 2010\ccv school\week 7\part 2 check\part 2 check\part 2 check.cpp(22): error C2143: syntax error : missing ';' before '=='
+     1>c:\users\brian\documents\visual studio 2010\ccv school\week 7\part 2 check\part 2 check\part 2 check.cpp(45): error C2065: 'num' : undeclared identifier
+     1>c:\users\brian\documents\visual studio 2010\ccv school\week 7\part 2 check\part 2 check\part 2 check.cpp(45): fatal error C1903: unable to recover from previous error(s); stopping compilation
+     1>Done Building Project "C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 7\part 2 check\part 2 check\part 2 check.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.42

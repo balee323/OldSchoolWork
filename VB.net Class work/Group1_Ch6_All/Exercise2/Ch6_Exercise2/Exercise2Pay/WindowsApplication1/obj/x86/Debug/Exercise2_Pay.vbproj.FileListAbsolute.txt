@@ -1,0 +1,11 @@
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Exercise2\Ch6_Exercise2\Exercise2Pay\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Exercise2\Ch6_Exercise2\Exercise2Pay\WindowsApplication1\obj\x86\Debug\Ch6_Exercise2.FrmPay.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Exercise2\Ch6_Exercise2\Exercise2Pay\WindowsApplication1\obj\x86\Debug\Ch6_Exercise2.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Exercise2\Ch6_Exercise2\Exercise2Pay\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Exercise2\Ch6_Exercise2\Exercise2Pay\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Exercise2\Ch6_Exercise2\Exercise2Pay\WindowsApplication1\bin\Debug\Ch6_Exercise2.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Exercise2\Ch6_Exercise2\Exercise2Pay\WindowsApplication1\bin\Debug\Ch6_Exercise2.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Exercise2\Ch6_Exercise2\Exercise2Pay\WindowsApplication1\bin\Debug\Ch6_Exercise2.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Exercise2\Ch6_Exercise2\Exercise2Pay\WindowsApplication1\obj\x86\Debug\Ch6_Exercise2.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Exercise2\Ch6_Exercise2\Exercise2Pay\WindowsApplication1\obj\x86\Debug\Ch6_Exercise2.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter6\Exercise2\Ch6_Exercise2\Exercise2Pay\WindowsApplication1\obj\x86\Debug\Ch6_Exercise2.pdb

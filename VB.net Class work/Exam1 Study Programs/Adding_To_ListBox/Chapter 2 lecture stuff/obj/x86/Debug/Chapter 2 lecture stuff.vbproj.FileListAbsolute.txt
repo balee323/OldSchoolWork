@@ -1,0 +1,17 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Chapter 2 lecture stuff\bin\Debug\Chapter 2 lecture stuff.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Chapter 2 lecture stuff\bin\Debug\Chapter 2 lecture stuff.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Chapter 2 lecture stuff\bin\Debug\Chapter 2 lecture stuff.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\Chapter 2 lecture stuff\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Chapter 2 lecture stuff\obj\x86\Debug\Chapter_2_lecture_stuff.Form1.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Chapter 2 lecture stuff\obj\x86\Debug\Chapter_2_lecture_stuff.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Chapter 2 lecture stuff\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\AppData\Local\Temporary Projects\Chapter 2 lecture stuff\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\AppData\Local\Temporary Projects\Chapter 2 lecture stuff\obj\x86\Debug\Chapter 2 lecture stuff.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Chapter 2 lecture stuff\obj\x86\Debug\Chapter 2 lecture stuff.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\Chapter 2 lecture stuff\obj\x86\Debug\Chapter 2 lecture stuff.pdb
+C:\Users\Brian\documents\visual studio 2010\Projects\Adding_To_ListBox\Chapter 2 lecture stuff\obj\x86\Debug\Chapter 2 lecture stuff.exe
+C:\Users\Brian\documents\visual studio 2010\Projects\Adding_To_ListBox\Chapter 2 lecture stuff\obj\x86\Debug\Chapter 2 lecture stuff.xml
+C:\Users\Brian\documents\visual studio 2010\Projects\Adding_To_ListBox\Chapter 2 lecture stuff\obj\x86\Debug\Chapter 2 lecture stuff.pdb
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\Adding_To_ListBox\Chapter 2 lecture stuff\obj\x86\Debug\Chapter 2 lecture stuff.exe
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\Adding_To_ListBox\Chapter 2 lecture stuff\obj\x86\Debug\Chapter 2 lecture stuff.xml
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\Adding_To_ListBox\Chapter 2 lecture stuff\obj\x86\Debug\Chapter 2 lecture stuff.pdb

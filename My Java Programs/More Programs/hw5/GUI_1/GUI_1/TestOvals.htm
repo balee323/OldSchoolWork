@@ -1,0 +1,45 @@
+<HTML>
+<HEAD>
+<TITLE>Intro to Java Programming, 4E - TestOvals</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+</HEAD>
+<basefont size=5><pre><FONT COLOR="#008000">// TestOvals.java: Demonstrate drawing ovals
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.JFrame;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.JPanel;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.Color;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.Graphics;
+
+<FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> TestOvals <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JFrame {
+  <FONT COLOR="#008000">/** Default constructor */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> TestOvals() {
+    setTitle("Show Ovals");
+    getContentPane().add(new OvalsPanel());
+  }
+
+  <FONT COLOR="#008000">/** Main method */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>static</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> main(String[] args) {
+    TestOvals frame = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> TestOvals();
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setSize(250, 250);
+    frame.setVisible(true);
+  }
+}
+
+<FONT COLOR="#008000">// The class for drawing the ovals on a panel
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> OvalsPanel <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JPanel {
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> paintComponent(Graphics g) {
+    super.paintComponent(g);
+
+    g.drawOval(5, 5, getWidth() / 2 - 10, getHeight() / 2 - 10);
+    g.setColor(Color.red);
+    g.drawOval(getWidth() / 2 + 5, 5, getWidth() / 2 - 10, 
+      getHeight() / 2 - 10);
+    g.setColor(Color.yellow);
+    g.fillOval(5, getHeight() / 2 + 5, getWidth() / 2 - 10,
+      getHeight() / 2 - 10);
+    g.setColor(Color.orange);
+    g.fillOval(getWidth() / 2 + 5, getHeight() / 2 + 5, 
+      getWidth() / 2 - 10, getHeight() / 2-10);
+  }
+}
+</pre>

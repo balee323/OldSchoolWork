@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+<TITLE>Intro to Java Programming, 4E - TestPanels</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+</HEAD>
+<basefont size=5><pre><FONT COLOR="#008000">// TestPanels.java: Use panels to group components
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.*;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.*;
+
+<FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> TestPanels <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JFrame {
+  <FONT COLOR="#008000">/** Default constructor */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> TestPanels() {
+    <FONT COLOR="#008000">// Get the content pane of the frame
+<FONT COLOR="#000000">    Container container = getContentPane();
+
+    <FONT COLOR="#008000">// Set BorderLayout for the frame
+<FONT COLOR="#000000">    container.setLayout(new BorderLayout());
+
+    <FONT COLOR="#008000">// Create panel p1 for the buttons and set GridLayout
+<FONT COLOR="#000000">    JPanel p1 = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> JPanel();
+    p1.setLayout(new GridLayout(4, 3));
+
+    <FONT COLOR="#008000">// Add buttons to the panel
+<FONT COLOR="#000000">    <FONT COLOR="#000080"><B>for</B></FONT><FONT COLOR="#000000"> (int i = 1; i &lt;= 9; i++) {
+      p1.add(new JButton("" + i));
+    }
+
+    p1.add(new JButton("" + 0));
+    p1.add(new JButton("Start"));
+    p1.add(new JButton("Stop"));
+
+    <FONT COLOR="#008000">// Create panel p2 to hold a text field and p1
+<FONT COLOR="#000000">    JPanel p2 = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> JPanel();
+    p2.setLayout(new BorderLayout());
+    p2.add(new JTextField("Time to be displayed here"),
+      BorderLayout.NORTH);
+    p2.add(p1, BorderLayout.CENTER);
+
+    <FONT COLOR="#008000">// Add p2 and a button to the frame
+<FONT COLOR="#000000">    container.add(p2, BorderLayout.EAST);
+    container.add(new Button("Food to be placed here"),
+      BorderLayout.CENTER);
+  }
+
+  <FONT COLOR="#008000">/** Main method */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>static</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> main(String[] args) {
+    TestPanels frame = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> TestPanels();
+    frame.setTitle("The Front View of a Microwave Oven");
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setSize(400, 250);
+    frame.setVisible(true);
+  }
+}
+</pre>

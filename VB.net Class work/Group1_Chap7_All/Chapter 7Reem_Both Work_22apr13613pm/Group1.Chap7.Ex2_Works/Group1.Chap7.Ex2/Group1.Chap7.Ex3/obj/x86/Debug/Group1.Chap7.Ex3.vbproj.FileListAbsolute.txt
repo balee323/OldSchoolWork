@@ -1,0 +1,52 @@
+C:\Users\Reem\documents\visual studio 2010\Projects\Group1.Chap7.Ex3\Group1.Chap7.Ex3\bin\Debug\Group1.Chap7.Ex3.exe
+C:\Users\Reem\documents\visual studio 2010\Projects\Group1.Chap7.Ex3\Group1.Chap7.Ex3\bin\Debug\Group1.Chap7.Ex3.pdb
+C:\Users\Reem\documents\visual studio 2010\Projects\Group1.Chap7.Ex3\Group1.Chap7.Ex3\bin\Debug\Group1.Chap7.Ex3.xml
+C:\Users\Reem\documents\visual studio 2010\Projects\Group1.Chap7.Ex3\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex2.frmsuperbowl.resources
+C:\Users\Reem\documents\visual studio 2010\Projects\Group1.Chap7.Ex3\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex2.Resources.resources
+C:\Users\Reem\documents\visual studio 2010\Projects\Group1.Chap7.Ex3\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.vbproj.GenerateResource.Cache
+C:\Users\Reem\documents\visual studio 2010\Projects\Group1.Chap7.Ex3\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.exe
+C:\Users\Reem\documents\visual studio 2010\Projects\Group1.Chap7.Ex3\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.xml
+C:\Users\Reem\documents\visual studio 2010\Projects\Group1.Chap7.Ex3\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.pdb
+C:\Users\Reem\Documents\Visual Studio 2010\Projects\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.exe
+C:\Users\Reem\Documents\Visual Studio 2010\Projects\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.xml
+C:\Users\Reem\Documents\Visual Studio 2010\Projects\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.pdb
+C:\Users\Reem\Documents\Visual Studio 2010\Projects\Group1.Chap7.Ex2\Group1.Chap7.Ex3\bin\Debug\Group1.Chap7.Ex3.exe
+C:\Users\Reem\Documents\Visual Studio 2010\Projects\Group1.Chap7.Ex2\Group1.Chap7.Ex3\bin\Debug\Group1.Chap7.Ex3.pdb
+C:\Users\Reem\Documents\Visual Studio 2010\Projects\Group1.Chap7.Ex2\Group1.Chap7.Ex3\bin\Debug\Group1.Chap7.Ex3.xml
+C:\Users\Reem\Documents\Visual Studio 2010\Projects\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex2.frmsuperbowl.resources
+C:\Users\Reem\Documents\Visual Studio 2010\Projects\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex2.Resources.resources
+C:\Users\Reem\Documents\Visual Studio 2010\Projects\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.vbproj.GenerateResource.Cache
+C:\Users\Brian\Desktop\Chapter 7Reem\Group1.Chap7.Ex2\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.exe
+C:\Users\Brian\Desktop\Chapter 7Reem\Group1.Chap7.Ex2\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.xml
+C:\Users\Brian\Desktop\Chapter 7Reem\Group1.Chap7.Ex2\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.pdb
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.exe
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.xml
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.pdb
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2_errors\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.exe
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2_errors\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.xml
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2_errors\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.pdb
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2_errors\Group1.Chap7.Ex2\Group1.Chap7.Ex3\bin\Debug\Group1.Chap7.Ex3.exe
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2_errors\Group1.Chap7.Ex2\Group1.Chap7.Ex3\bin\Debug\Group1.Chap7.Ex3.pdb
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2_errors\Group1.Chap7.Ex2\Group1.Chap7.Ex3\bin\Debug\Group1.Chap7.Ex3.xml
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2_errors\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2_errors\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex2.frmsuperbowl.resources
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2_errors\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex2.Resources.resources
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2_errors\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Desktop\Group1.Chap7All\Chapter 7Reem\Group1.Chap7.Ex2_errors\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Desktop\Chapter 7Reem_Both Work_22apr13613pm\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.exe
+C:\Users\Brian\Desktop\Chapter 7Reem_Both Work_22apr13613pm\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.xml
+C:\Users\Brian\Desktop\Chapter 7Reem_Both Work_22apr13613pm\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.pdb
+C:\Users\Brian\Desktop\Chapter 7Reem_Both Work_22apr13613pm\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\bin\Debug\Group1.Chap7.Ex3.exe
+C:\Users\Brian\Desktop\Chapter 7Reem_Both Work_22apr13613pm\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\bin\Debug\Group1.Chap7.Ex3.pdb
+C:\Users\Brian\Desktop\Chapter 7Reem_Both Work_22apr13613pm\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\bin\Debug\Group1.Chap7.Ex3.xml
+C:\Users\Brian\Desktop\Chapter 7Reem_Both Work_22apr13613pm\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Chapter 7Reem_Both Work_22apr13613pm\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex2.frmsuperbowl.resources
+C:\Users\Brian\Desktop\Chapter 7Reem_Both Work_22apr13613pm\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex2.Resources.resources
+C:\Users\Brian\Desktop\Chapter 7Reem_Both Work_22apr13613pm\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Desktop\Chapter 7Reem_Both Work_22apr13613pm\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Desktop\Group1_Chap7_All\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.exe
+C:\Users\Brian\Desktop\Group1_Chap7_All\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.xml
+C:\Users\Brian\Desktop\Group1_Chap7_All\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.pdb
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1_Chap7_All\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.exe
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1_Chap7_All\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.xml
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1_Chap7_All\Chapter 7Reem_Both Work_22apr13613pm\Group1.Chap7.Ex2_Works\Group1.Chap7.Ex2\Group1.Chap7.Ex3\obj\x86\Debug\Group1.Chap7.Ex3.pdb

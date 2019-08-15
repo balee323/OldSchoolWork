@@ -1,0 +1,22 @@
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Individual2\Individual2\Individual2\bin\Debug\Individual2.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Individual2\Individual2\Individual2\bin\Debug\Individual2.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Individual2\Individual2\Individual2\bin\Debug\Individual2.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Individual2\Individual2\Individual2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Individual2\Individual2\Individual2\obj\x86\Debug\Individual2.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Individual2\Individual2\Individual2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Individual2\Individual2\Individual2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Individual2\Individual2\Individual2\obj\x86\Debug\Individual2.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Individual2\Individual2\Individual2\obj\x86\Debug\Individual2.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Individual2\Individual2\Individual2\obj\x86\Debug\Individual2.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Individual2\Individual2\Individual2\obj\x86\Debug\Individual2.FrmInvoice.resources
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\BrianLee_Individual2\BrianLee_Individual2\Individual2\obj\x86\Debug\Individual2.exe
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\BrianLee_Individual2\BrianLee_Individual2\Individual2\obj\x86\Debug\Individual2.xml
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\BrianLee_Individual2\BrianLee_Individual2\Individual2\obj\x86\Debug\Individual2.pdb
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\BrianLee_Individual2\BrianLee_Individual2\Individual2\bin\Debug\Individual2.exe
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\BrianLee_Individual2\BrianLee_Individual2\Individual2\bin\Debug\Individual2.pdb
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\BrianLee_Individual2\BrianLee_Individual2\Individual2\bin\Debug\Individual2.xml
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\BrianLee_Individual2\BrianLee_Individual2\Individual2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\BrianLee_Individual2\BrianLee_Individual2\Individual2\obj\x86\Debug\Individual2.FrmInvoice.resources
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\BrianLee_Individual2\BrianLee_Individual2\Individual2\obj\x86\Debug\Individual2.Resources.resources
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\BrianLee_Individual2\BrianLee_Individual2\Individual2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\BrianLee_Individual2\BrianLee_Individual2\Individual2\obj\x86\Debug\GenerateResource.write.1.tlog

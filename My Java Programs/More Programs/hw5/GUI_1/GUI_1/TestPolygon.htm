@@ -1,0 +1,63 @@
+<HTML>
+<HEAD>
+<TITLE>Intro to Java Programming, 4E - TestPolygon</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+</HEAD>
+<basefont size=5><pre><FONT COLOR="#008000">// TestPolygon.java: Demonstrate drawing polygons
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.JFrame;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.JPanel;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.Graphics;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.Polygon;
+
+<FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> TestPolygon <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JFrame {
+  <FONT COLOR="#008000">/** Default constructor */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> TestPolygon() {
+    setTitle("Show Polygon");
+    getContentPane().add(new PolygonsPanel());
+  }
+
+  <FONT COLOR="#008000">/** Main method */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>static</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> main(String[] args) {
+    TestPolygon frame = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> TestPolygon();
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setSize(200, 250);
+    frame.setVisible(true);
+  }
+}
+
+<FONT COLOR="#008000">// Draw a polygon in the panel
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> PolygonsPanel <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JPanel {
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> paintComponent(Graphics g) {
+    super.paintComponent(g);
+
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> xCenter = getWidth() / 2;
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> yCenter = getHeight() / 2;
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> radius =
+      (int)(Math.min(getWidth(), getHeight()) * 0.4);
+
+    <FONT COLOR="#008000">// Create a Polygon object
+<FONT COLOR="#000000">    Polygon polygon = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> Polygon();
+
+    <FONT COLOR="#008000">// Add points to the polygon
+<FONT COLOR="#000000">    polygon.addPoint(xCenter + radius, yCenter);
+    polygon.addPoint((int)(xCenter + radius * 
+      Math.cos(2 * Math.PI / 6)), (int)(yCenter - radius * 
+      Math.sin(2 * Math.PI / 6)));
+    polygon.addPoint((int)(xCenter + radius *
+      Math.cos(2 * 2 * Math.PI / 6)), (int)(yCenter - radius *
+      Math.sin(2 * 2 * Math.PI / 6)));
+    polygon.addPoint((int)(xCenter + radius *
+      Math.cos(3 * 2 * Math.PI / 6)), (int)(yCenter - radius *
+      Math.sin(3 * 2 * Math.PI / 6)));
+    polygon.addPoint((int)(xCenter + radius *
+      Math.cos(4 * 2 * Math.PI / 6)), (int)(yCenter - radius *
+      Math.sin(4 * 2 * Math.PI / 6)));
+    polygon.addPoint((int)(xCenter + radius * 
+      Math.cos(5 * 2 * Math.PI / 6)), (int)(yCenter - radius *
+      Math.sin(5 * 2 * Math.PI / 6)));
+
+    <FONT COLOR="#008000">// Draw the polygon
+<FONT COLOR="#000000">    g.drawPolygon(polygon);
+  }
+}
+</pre>

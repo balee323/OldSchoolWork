@@ -1,0 +1,50 @@
+<HTML>
+<HEAD>
+<TITLE>Intro to Java Programming, 4E - DisplayClock</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+</HEAD>
+<basefont size=5><pre><FONT COLOR="#008000">// DisplayClock.java: Display a clock in a panel
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.*;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.*;
+
+<FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> DisplayClock <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JFrame {
+  <FONT COLOR="#008000">/** Main method to display hour, minute and hour
+     @param args[0] hour
+     @param args[1] minute
+     @param args[2] second
+    */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>static</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> main(String[] args) {
+    <FONT COLOR="#008000">// Declare hour, minute, and second values
+<FONT COLOR="#000000">    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> hour = 0;
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> minute = 0;
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> second = 0;
+
+    <FONT COLOR="#008000">// Check usage and get hour, minute, second
+<FONT COLOR="#000000">    <FONT COLOR="#000080"><B>if</B></FONT><FONT COLOR="#000000"> (args.length &gt; 3) {
+      System.out.println(
+        "Usage: java DisplayClock hour minute second");
+      System.exit(0);
+    }
+    <FONT COLOR="#000080"><B>else</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>if</B></FONT><FONT COLOR="#000000"> (args.length == 3) {
+      hour = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> Integer(args[0]).intValue();
+      minute = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> Integer(args[1]).intValue();
+      second = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> Integer(args[2]).intValue();
+    }
+    <FONT COLOR="#000080"><B>else</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>if</B></FONT><FONT COLOR="#000000"> (args.length == 2) {
+      hour = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> Integer(args[0]).intValue();
+      minute = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> Integer(args[1]).intValue();
+    }
+    <FONT COLOR="#000080"><B>else</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>if</B></FONT><FONT COLOR="#000000"> (args.length == 1) {
+      hour = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> Integer(args[0]).intValue();
+    }
+
+    <FONT COLOR="#008000">// Create a frame to hold the clock
+<FONT COLOR="#000000">    DisplayClock frame = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> DisplayClock();
+    frame.setTitle("Display Clock");
+    frame.getContentPane().add(new DrawClock(hour, minute, second));
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setSize(300, 350);
+    frame.setVisible(true);
+  }
+}
+</pre>

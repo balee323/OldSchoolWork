@@ -1,0 +1,34 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\Ch2_Exercise_2\bin\Debug\Ch2_Exercise_2.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Ch2_Exercise_2\bin\Debug\Ch2_Exercise_2.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\Ch2_Exercise_2\bin\Debug\Ch2_Exercise_2.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\Ch2_Exercise_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.FrmLight.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\Ch2_Exercise_2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\AppData\Local\Temporary Projects\Ch2_Exercise_2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\AppData\Local\Temporary Projects\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.pdb
+C:\Users\Brian\Desktop\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.exe
+C:\Users\Brian\Desktop\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.xml
+C:\Users\Brian\Desktop\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.pdb
+F:\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.exe
+F:\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.xml
+F:\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.pdb
+F:\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\bin\Debug\Ch2_Exercise_2.exe
+F:\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\bin\Debug\Ch2_Exercise_2.pdb
+F:\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\bin\Debug\Ch2_Exercise_2.xml
+F:\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.FrmLight.resources
+F:\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.Resources.resources
+F:\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\VB Projects\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Reem\Dropbox\Turned-in Group assignments\Chapter 2\Chapter 2\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.exe
+C:\Users\Reem\Dropbox\Turned-in Group assignments\Chapter 2\Chapter 2\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.xml
+C:\Users\Reem\Dropbox\Turned-in Group assignments\Chapter 2\Chapter 2\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.pdb
+C:\Users\Reem\Dropbox\Turned-in Group assignments\Chapter 2\Chapter 2\Ch2_Exercise_2\Ch2_Exercise_2\bin\Debug\Ch2_Exercise_2.exe
+C:\Users\Reem\Dropbox\Turned-in Group assignments\Chapter 2\Chapter 2\Ch2_Exercise_2\Ch2_Exercise_2\bin\Debug\Ch2_Exercise_2.pdb
+C:\Users\Reem\Dropbox\Turned-in Group assignments\Chapter 2\Chapter 2\Ch2_Exercise_2\Ch2_Exercise_2\bin\Debug\Ch2_Exercise_2.xml
+C:\Users\Reem\Dropbox\Turned-in Group assignments\Chapter 2\Chapter 2\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.FrmLight.resources
+C:\Users\Reem\Dropbox\Turned-in Group assignments\Chapter 2\Chapter 2\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.Resources.resources
+C:\Users\Reem\Dropbox\Turned-in Group assignments\Chapter 2\Chapter 2\Ch2_Exercise_2\Ch2_Exercise_2\obj\x86\Debug\Ch2_Exercise_2.vbproj.GenerateResource.Cache

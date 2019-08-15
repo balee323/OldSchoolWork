@@ -1,0 +1,104 @@
+<HTML>
+<HEAD>
+<TITLE>Intro to Java Programming, 4E - MessagePanel</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+</HEAD>
+<basefont size=5><pre><FONT COLOR="#008000">// MessagePanel.java: Display a message on a JPanel
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.Font;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.FontMetrics;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.Dimension;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.Graphics;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.JPanel;
+
+<FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> MessagePanel <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JPanel {
+  <FONT COLOR="#008000">/** The message to be displayed */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>private</B></FONT><FONT COLOR="#000000"> String message = "Welcome to Java"; 
+
+  <FONT COLOR="#008000">/** The x coordinate where the message is displayed */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>private</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> xCoordinate = 20;
+
+  <FONT COLOR="#008000">/** The y coordinate where the message is displayed */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>private</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> yCoordinate = 20;
+
+  <FONT COLOR="#008000">/** Indicate whether the message is displayed in the center */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>private</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>boolean</B></FONT><FONT COLOR="#000000"> centered;
+
+  <FONT COLOR="#008000">/** Default constructor */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> MessagePanel() {
+  }
+
+  <FONT COLOR="#008000">/** Constructor with a message parameter */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> MessagePanel(String message) {
+    this.message = message;
+  }
+
+  <FONT COLOR="#008000">/** Return message */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> String getMessage() {
+    <FONT COLOR="#000080"><B>return</B></FONT><FONT COLOR="#000000"> message;
+  }
+
+  <FONT COLOR="#008000">/** Set a new message */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> setMessage(String message) {
+    this.message = message;
+  }
+
+  <FONT COLOR="#008000">/** Return xCoordinator */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> getXCoordinate() {
+    <FONT COLOR="#000080"><B>return</B></FONT><FONT COLOR="#000000"> xCoordinate;
+  }
+
+  <FONT COLOR="#008000">/** Set a new xCoordinator */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> setXCoordinate(int x) {
+    this.xCoordinate = x;
+  }
+
+  <FONT COLOR="#008000">/** Return yCoordinator */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> getYCoordinate() {
+    <FONT COLOR="#000080"><B>return</B></FONT><FONT COLOR="#000000"> yCoordinate;
+  }
+
+  <FONT COLOR="#008000">/** Set a new yCoordinator */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> setYCoordinate(int y) {
+    this.yCoordinate = y;
+  }
+
+  <FONT COLOR="#008000">/** Return centered */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>boolean</B></FONT><FONT COLOR="#000000"> isCentered() {
+    <FONT COLOR="#000080"><B>return</B></FONT><FONT COLOR="#000000"> centered;
+  }
+
+  <FONT COLOR="#008000">/** Set a new centered */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> setCentered(boolean centered) {
+    this.centered = centered;
+  }
+
+  <FONT COLOR="#008000">/** Paint the message */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> paintComponent(Graphics g) {
+    super.paintComponent(g);
+
+    <FONT COLOR="#000080"><B>if</B></FONT><FONT COLOR="#000000"> (centered) {
+      <FONT COLOR="#008000">// Get font metrics for the current font
+<FONT COLOR="#000000">      FontMetrics fm = g.getFontMetrics();
+
+      <FONT COLOR="#008000">// Find the center location to display
+<FONT COLOR="#000000">      <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> w = fm.stringWidth(message);  <FONT COLOR="#008000">// Get the string width
+<FONT COLOR="#000000">      <FONT COLOR="#008000">// Get the string height, from top to the baseline
+<FONT COLOR="#000000">      <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> h = fm.getAscent(); 
+      xCoordinate = getWidth() / 2 - w / 2;
+      yCoordinate = getHeight() / 2 + h / 2;
+    }
+
+    g.drawString(message, xCoordinate, yCoordinate);
+  }
+
+  <FONT COLOR="#008000">/** Override get method for preferredSize */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> Dimension getPreferredSize() {
+    <FONT COLOR="#000080"><B>return</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> Dimension(200, 100);
+  }
+
+  <FONT COLOR="#008000">/** Override get method for minimumSize */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> Dimension getMinimumSize() {
+    <FONT COLOR="#000080"><B>return</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> Dimension(200, 100);
+  }
+}
+</pre>

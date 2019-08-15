@@ -1,0 +1,17 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\If_Else_Statements\bin\Debug\If_Else_Statements.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\If_Else_Statements\bin\Debug\If_Else_Statements.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\If_Else_Statements\bin\Debug\If_Else_Statements.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\If_Else_Statements\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\If_Else_Statements\obj\x86\Debug\If_Else_Statements.Form1.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\If_Else_Statements\obj\x86\Debug\If_Else_Statements.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\If_Else_Statements\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\AppData\Local\Temporary Projects\If_Else_Statements\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\AppData\Local\Temporary Projects\If_Else_Statements\obj\x86\Debug\If_Else_Statements.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\If_Else_Statements\obj\x86\Debug\If_Else_Statements.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\If_Else_Statements\obj\x86\Debug\If_Else_Statements.pdb
+C:\Users\Brian\documents\visual studio 2010\Projects\If_Else_Statements\If_Else_Statements\obj\x86\Debug\If_Else_Statements.exe
+C:\Users\Brian\documents\visual studio 2010\Projects\If_Else_Statements\If_Else_Statements\obj\x86\Debug\If_Else_Statements.xml
+C:\Users\Brian\documents\visual studio 2010\Projects\If_Else_Statements\If_Else_Statements\obj\x86\Debug\If_Else_Statements.pdb
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\If_Else_Statements\If_Else_Statements\obj\x86\Debug\If_Else_Statements.exe
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\If_Else_Statements\If_Else_Statements\obj\x86\Debug\If_Else_Statements.xml
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\If_Else_Statements\If_Else_Statements\obj\x86\Debug\If_Else_Statements.pdb

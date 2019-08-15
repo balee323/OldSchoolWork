@@ -1,0 +1,40 @@
+Grading form: CS 110 Java Part II:   Card Game of Boneace31
+
+______%  Final score 
+         
+
+______total grading pts 
+
+
+___X___late bank: No lates allowed on this assignment,
+                  LATE ticket May NOT be used. 
+
+______(40 MAX pts)            
+Grader Comments:      
+
+
+
+
+
+
+
+
+Option   MAX 40 :  Card Game of Boneace31
+
+
+________(20 pts) function:
+                 Game is played as specified -- either in console or in
+                 GUI view.  Game is easy to play for the user, and the
+                 status of the game (scores, whose turn it is,face up view
+                 of the hands etc) is easy to see.  The programmer's
+                 name appears on the screen.                    
+
+________(10 pts) style :
+                 Separate the data code from the view code as much as possible.
+                 with either version console or GUI.  Easily comprehensible code.
+
+
+________(10 pts) GUI rather than console view 
+                 (without a GUI view on the game,
+                 the max points that can be earned is 30/40)
+                  

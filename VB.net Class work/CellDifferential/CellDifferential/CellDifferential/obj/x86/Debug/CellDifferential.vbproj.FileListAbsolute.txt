@@ -1,0 +1,32 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\CellDifferential\bin\Debug\CellDifferential.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\CellDifferential\bin\Debug\CellDifferential.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\CellDifferential\bin\Debug\CellDifferential.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\CellDifferential\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\CellDifferential\obj\x86\Debug\CellDifferential.Form1.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\CellDifferential\obj\x86\Debug\CellDifferential.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\CellDifferential\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\AppData\Local\Temporary Projects\CellDifferential\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\AppData\Local\Temporary Projects\CellDifferential\obj\x86\Debug\CellDifferential.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\CellDifferential\obj\x86\Debug\CellDifferential.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\CellDifferential\obj\x86\Debug\CellDifferential.pdb
+C:\Users\Brian\documents\visual studio 2010\Projects\CellDifferential\CellDifferential\obj\x86\Debug\CellDifferential.exe
+C:\Users\Brian\documents\visual studio 2010\Projects\CellDifferential\CellDifferential\obj\x86\Debug\CellDifferential.xml
+C:\Users\Brian\documents\visual studio 2010\Projects\CellDifferential\CellDifferential\obj\x86\Debug\CellDifferential.pdb
+C:\Users\Brian\documents\visual studio 2010\Projects\CellDifferential\CellDifferential\bin\Debug\CellDifferential.exe
+C:\Users\Brian\documents\visual studio 2010\Projects\CellDifferential\CellDifferential\bin\Debug\CellDifferential.pdb
+C:\Users\Brian\documents\visual studio 2010\Projects\CellDifferential\CellDifferential\bin\Debug\CellDifferential.xml
+C:\Users\Brian\documents\visual studio 2010\Projects\CellDifferential\CellDifferential\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\documents\visual studio 2010\Projects\CellDifferential\CellDifferential\obj\x86\Debug\CellDifferential.Form1.resources
+C:\Users\Brian\documents\visual studio 2010\Projects\CellDifferential\CellDifferential\obj\x86\Debug\CellDifferential.Resources.resources
+C:\Users\Brian\documents\visual studio 2010\Projects\CellDifferential\CellDifferential\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\documents\visual studio 2010\Projects\CellDifferential\CellDifferential\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Desktop\Coding\Coding Portfolio\VB.net Class work\CellDifferential\CellDifferential\CellDifferential\obj\x86\Debug\CellDifferential.exe
+C:\Users\Brian\Desktop\Coding\Coding Portfolio\VB.net Class work\CellDifferential\CellDifferential\CellDifferential\obj\x86\Debug\CellDifferential.xml
+C:\Users\Brian\Desktop\Coding\Coding Portfolio\VB.net Class work\CellDifferential\CellDifferential\CellDifferential\obj\x86\Debug\CellDifferential.pdb
+C:\Users\Brian\Desktop\Coding\Coding Portfolio\VB.net Class work\CellDifferential\CellDifferential\CellDifferential\bin\Debug\CellDifferential.exe
+C:\Users\Brian\Desktop\Coding\Coding Portfolio\VB.net Class work\CellDifferential\CellDifferential\CellDifferential\bin\Debug\CellDifferential.pdb
+C:\Users\Brian\Desktop\Coding\Coding Portfolio\VB.net Class work\CellDifferential\CellDifferential\CellDifferential\bin\Debug\CellDifferential.xml
+C:\Users\Brian\Desktop\Coding\Coding Portfolio\VB.net Class work\CellDifferential\CellDifferential\CellDifferential\obj\x86\Debug\CellDifferential.vbprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Coding\Coding Portfolio\VB.net Class work\CellDifferential\CellDifferential\CellDifferential\obj\x86\Debug\CellDifferential.Form1.resources
+C:\Users\Brian\Desktop\Coding\Coding Portfolio\VB.net Class work\CellDifferential\CellDifferential\CellDifferential\obj\x86\Debug\CellDifferential.Resources.resources
+C:\Users\Brian\Desktop\Coding\Coding Portfolio\VB.net Class work\CellDifferential\CellDifferential\CellDifferential\obj\x86\Debug\CellDifferential.vbproj.GenerateResource.Cache

@@ -1,0 +1,48 @@
+<HTML>
+<HEAD>
+<TITLE>Intro to Java Programming, 4E - TestArcs</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+</HEAD>
+<basefont size=5><pre><FONT COLOR="#008000">// TestArcs.java: Demonstrate drawing arcs
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.JFrame;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.JPanel;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.Color;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.Graphics;
+
+<FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> TestArcs <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JFrame {
+  <FONT COLOR="#008000">/** Default constructor */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> TestArcs() {
+    setTitle("Show Arcs");
+    getContentPane().add(new ArcsPanel());
+  }
+
+  <FONT COLOR="#008000">/** Main method */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>static</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> main(String[] args) {
+    TestArcs frame = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> TestArcs();
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setSize(250, 300);
+    frame.setVisible(true);
+  }
+}
+
+<FONT COLOR="#008000">// The class for drawing arcs on a panel
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> ArcsPanel <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JPanel {
+  <FONT COLOR="#008000">// Draw four blazes of a fan
+<FONT COLOR="#000000">  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> paintComponent(Graphics g) {
+    super.paintComponent(g);
+
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> xCenter = getWidth() / 2;
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> yCenter = getHeight() / 2;
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> radius =
+      (int)(Math.min(getWidth(), getHeight()) * 0.4);
+
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> x = xCenter - radius;
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> y = yCenter - radius;
+
+    g.fillArc(x, y, 2 * radius, 2 * radius, 0, 30);
+    g.fillArc(x, y, 2 * radius, 2 * radius, 90, 30);
+    g.fillArc(x, y, 2 * radius, 2 * radius, 180, 30);
+    g.fillArc(x, y, 2 * radius, 2 * radius, 270, 30);
+  }
+}
+</pre>

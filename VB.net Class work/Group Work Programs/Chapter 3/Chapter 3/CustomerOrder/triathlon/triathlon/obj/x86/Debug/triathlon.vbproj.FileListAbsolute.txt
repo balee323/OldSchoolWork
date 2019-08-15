@@ -1,0 +1,22 @@
+C:\Users\balee\Desktop\Ch3group\triathlon\triathlon\bin\Debug\triathlon.exe
+C:\Users\balee\Desktop\Ch3group\triathlon\triathlon\bin\Debug\triathlon.pdb
+C:\Users\balee\Desktop\Ch3group\triathlon\triathlon\bin\Debug\triathlon.xml
+C:\Users\balee\Desktop\Ch3group\triathlon\triathlon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\balee\Desktop\Ch3group\triathlon\triathlon\obj\x86\Debug\triathlon.triathlon.resources
+C:\Users\balee\Desktop\Ch3group\triathlon\triathlon\obj\x86\Debug\triathlon.Resources.resources
+C:\Users\balee\Desktop\Ch3group\triathlon\triathlon\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\balee\Desktop\Ch3group\triathlon\triathlon\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\balee\Desktop\Ch3group\triathlon\triathlon\obj\x86\Debug\triathlon.exe
+C:\Users\balee\Desktop\Ch3group\triathlon\triathlon\obj\x86\Debug\triathlon.xml
+C:\Users\balee\Desktop\Ch3group\triathlon\triathlon\obj\x86\Debug\triathlon.pdb
+F:\VB Projects\triathlon\triathlon\obj\x86\Debug\triathlon.exe
+F:\VB Projects\triathlon\triathlon\obj\x86\Debug\triathlon.xml
+F:\VB Projects\triathlon\triathlon\obj\x86\Debug\triathlon.pdb
+F:\VB Projects\triathlon\triathlon\bin\Debug\triathlon.exe
+F:\VB Projects\triathlon\triathlon\bin\Debug\triathlon.pdb
+F:\VB Projects\triathlon\triathlon\bin\Debug\triathlon.xml
+F:\VB Projects\triathlon\triathlon\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VB Projects\triathlon\triathlon\obj\x86\Debug\triathlon.triathlon.resources
+F:\VB Projects\triathlon\triathlon\obj\x86\Debug\triathlon.Resources.resources
+F:\VB Projects\triathlon\triathlon\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\VB Projects\triathlon\triathlon\obj\x86\Debug\GenerateResource.write.1.tlog

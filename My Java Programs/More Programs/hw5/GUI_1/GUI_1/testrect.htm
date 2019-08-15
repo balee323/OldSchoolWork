@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+<TITLE>Intro to Java Programming, 4E - TestRect</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+</HEAD>
+<basefont size=5><pre><FONT COLOR="#008000">// TestRect.java: Demonstrate drawing rectangles
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.Graphics;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.Color;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.JPanel;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.JFrame;
+
+<FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> TestRect <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JFrame {
+  <FONT COLOR="#008000">/** Default constructor */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> TestRect() {
+    setTitle("Show Rectangles");
+    getContentPane().add(new RectPanel());
+  }
+
+  <FONT COLOR="#008000">/** Main method */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>static</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> main(String[] args) {
+    TestRect frame = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> TestRect();
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setSize(300, 250);
+    frame.setVisible(true);
+  }
+}
+
+<FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> RectPanel <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JPanel {
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> paintComponent(Graphics g) {
+    super.paintComponent(g);
+
+    <FONT COLOR="#008000">// Set new color
+<FONT COLOR="#000000">    g.setColor(Color.red);
+
+    <FONT COLOR="#008000">// Draw a rectangle
+<FONT COLOR="#000000">    g.drawRect(5, 5, getWidth() / 2 - 10, getHeight() / 2 - 10);
+
+    <FONT COLOR="#008000">// Draw a rounded rectangle
+<FONT COLOR="#000000">    g.drawRoundRect(getWidth() / 2 + 5, 5,
+      getWidth() / 2 - 10, getHeight() / 2 - 10, 60, 30);
+
+    <FONT COLOR="#008000">// Change the color to cyan
+<FONT COLOR="#000000">    g.setColor(Color.cyan);
+
+    <FONT COLOR="#008000">// Draw a 3D rectangle
+<FONT COLOR="#000000">    g.fill3DRect(5, getHeight() / 2 + 5, getWidth() / 2 - 10,
+      getHeight() / 2 - 10, true);
+
+    <FONT COLOR="#008000">// Draw a raised 3D rectangle
+<FONT COLOR="#000000">    g.fill3DRect(getWidth() / 2 + 5, getHeight() / 2 + 5, 
+      getWidth() / 2 - 10, getHeight() / 2 - 10, false);
+  }
+}
+</pre>

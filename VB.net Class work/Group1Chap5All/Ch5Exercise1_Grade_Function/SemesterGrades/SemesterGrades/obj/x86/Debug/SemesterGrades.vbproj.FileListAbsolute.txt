@@ -1,0 +1,31 @@
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade\SemesterGrades\SemesterGrades\bin\Debug\SemesterGrades.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade\SemesterGrades\SemesterGrades\bin\Debug\SemesterGrades.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade\SemesterGrades\SemesterGrades\bin\Debug\SemesterGrades.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade\SemesterGrades\SemesterGrades\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.FrmGrade.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade\SemesterGrades\SemesterGrades\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade\SemesterGrades\SemesterGrades\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\bin\Debug\SemesterGrades.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\bin\Debug\SemesterGrades.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\bin\Debug\SemesterGrades.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.FrmGrade.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tim\Dropbox\Brian\Group1.Chap5All\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.exe
+C:\Users\Tim\Dropbox\Brian\Group1.Chap5All\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.xml
+C:\Users\Tim\Dropbox\Brian\Group1.Chap5All\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.pdb
+C:\Users\Brian\Dropbox\Brian\Group1.Chap5All\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.exe
+C:\Users\Brian\Dropbox\Brian\Group1.Chap5All\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.xml
+C:\Users\Brian\Dropbox\Brian\Group1.Chap5All\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.pdb
+C:\Users\Brian\Desktop\Group1Chap5All\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.exe
+C:\Users\Brian\Desktop\Group1Chap5All\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.xml
+C:\Users\Brian\Desktop\Group1Chap5All\Ch5Exercise1_Grade_Function\SemesterGrades\SemesterGrades\obj\x86\Debug\SemesterGrades.pdb

@@ -1,0 +1,36 @@
+<HTML>
+<HEAD>
+<TITLE>Intro to Java Programming, 4E - ShowFlowLayout</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+</HEAD>
+<basefont size=5><pre><FONT COLOR="#008000">// ShowFlowLayout.java: Demonstrate using FlowLayout
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.JButton;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.JFrame;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.Container;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.FlowLayout;
+
+<FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> ShowFlowLayout <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JFrame {
+  <FONT COLOR="#008000">/** Default constructor */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> ShowFlowLayout() {
+    <FONT COLOR="#008000">// Get the content pane of the frame
+<FONT COLOR="#000000">    Container container = getContentPane();
+
+    <FONT COLOR="#008000">// Set FlowLayout, aligned left with horizontal gap 10
+<FONT COLOR="#000000">    <FONT COLOR="#008000">// and vertical gap 20 between components
+<FONT COLOR="#000000">    container.setLayout(new FlowLayout(FlowLayout.LEFT, 10, 20));
+
+    <FONT COLOR="#008000">// Add buttons to the frame
+<FONT COLOR="#000000">    <FONT COLOR="#000080"><B>for</B></FONT><FONT COLOR="#000000"> (int i = 1; i &lt;= 10; i++)
+      container.add(new JButton("Component " + i));
+  }
+
+  <FONT COLOR="#008000">/** Main method */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>static</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> main(String[] args) {
+    ShowFlowLayout frame = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> ShowFlowLayout();
+    frame.setTitle("Show FlowLayout");
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setSize(200, 200);
+    frame.setVisible(true);
+  }
+}
+</pre>

@@ -1,0 +1,22 @@
+﻿Build started 6/13/2012 2:33:36 AM.
+     1>Project "C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 2\Part 5 User age\Part 5 User age\Part 5 User age.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Part 5 User age.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Part 5 User age.cpp"
+         Part 5 User age.cpp
+     1>c:\users\brian\documents\visual studio 2010\ccv school\week 2\part 5 user age\part 5 user age\part 5 user age.cpp(27): warning C4101: 'age_days' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 2\Part 5 User age\Debug\Part 5 User age.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Part 5 User age.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 2\Part 5 User age\Debug\Part 5 User age.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 2\Part 5 User age\Debug\Part 5 User age.lib" /MACHINE:X86 "Debug\Part 5 User age.obj"
+         LINK : C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 2\Part 5 User age\Debug\Part 5 User age.exe not found or not built by the last incremental link; performing full link
+         Part 5 User age.vcxproj -> C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 2\Part 5 User age\Debug\Part 5 User age.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 2\Part 5 User age\Debug\Part 5 User age.exe;#1" /manifest "Debug\Part 5 User age.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Part 5 User age.unsuccessfulbuild".
+         Touching "Debug\Part 5 User age.lastbuildstate".
+     1>Done Building Project "C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 2\Part 5 User age\Part 5 User age\Part 5 User age.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.77

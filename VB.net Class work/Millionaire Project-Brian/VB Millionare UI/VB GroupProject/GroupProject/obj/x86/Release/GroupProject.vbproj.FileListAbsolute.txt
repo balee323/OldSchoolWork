@@ -1,0 +1,16 @@
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\bin\Release\GroupProject.exe.manifest
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\bin\Release\GroupProject.application
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\bin\Release\GroupProject.exe
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\bin\Release\GroupProject.pdb
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\bin\Release\GroupProject.xml
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\obj\x86\Release\GroupProject.FrmWhoMillionare.resources
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\obj\x86\Release\GroupProject.Resources.resources
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\obj\x86\Release\GroupProject.TrustInfo.xml
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\obj\x86\Release\GroupProject.exe.manifest
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\obj\x86\Release\GroupProject.application
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\obj\x86\Release\GroupProject.exe
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\obj\x86\Release\GroupProject.xml
+C:\Users\Brian\Desktop\Millionaire Project-Brian\VB Millionare UI\VB GroupProject\GroupProject\obj\x86\Release\GroupProject.pdb

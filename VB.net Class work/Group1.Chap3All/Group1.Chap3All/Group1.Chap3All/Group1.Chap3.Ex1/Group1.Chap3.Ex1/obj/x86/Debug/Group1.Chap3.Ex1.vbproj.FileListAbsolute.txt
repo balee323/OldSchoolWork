@@ -1,0 +1,73 @@
+C:\Users\rhamade\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.exe
+C:\Users\rhamade\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\rhamade\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.xml
+C:\Users\rhamade\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rhamade\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.frmordernumbers.resources
+C:\Users\rhamade\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.Resources.resources
+C:\Users\rhamade\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rhamade\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rhamade\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.exe
+C:\Users\rhamade\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.xml
+C:\Users\rhamade\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Reem\Downloads\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Reem\Downloads\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Reem\Downloads\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Reem\Downloads\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Reem\Downloads\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Reem\Downloads\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Reem\Downloads\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.frmordernumbers.resources
+C:\Users\Reem\Downloads\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.Resources.resources
+C:\Users\Reem\Downloads\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.vbproj.GenerateResource.Cache
+C:\Users\Reem\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Reem\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Reem\Desktop\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.frmordernumbers.resources
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.Resources.resources
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.frmordernumbers.resources
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.Resources.resources
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Brian\Desktop\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Reem\Dropbox\Brian\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Reem\Dropbox\Brian\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Reem\Dropbox\Brian\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Brian\Desktop\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Brian\Desktop\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Brian\Desktop\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Brian\Desktop\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Brian\Desktop\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Brian\Desktop\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Brian\Desktop\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.frmordernumbers.resources
+C:\Users\Brian\Desktop\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.Resources.resources
+C:\Users\Brian\Desktop\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Desktop\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.exe
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.pdb
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\bin\Debug\Group1.Chap3.Ex1.xml
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.frmordernumbers.resources
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\Group1.Chap3.Ex1.Resources.resources
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Group1.Chap3All\Group1.Chap3All\Group1.Chap3All\Group1.Chap3.Ex1\Group1.Chap3.Ex1\obj\x86\Debug\GenerateResource.write.1.tlog

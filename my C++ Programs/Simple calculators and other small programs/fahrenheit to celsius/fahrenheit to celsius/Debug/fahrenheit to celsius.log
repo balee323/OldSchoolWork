@@ -1,0 +1,21 @@
+﻿Build started 6/2/2012 1:24:03 AM.
+     1>Project "C:\Users\Brian\Documents\Visual Studio 2010\CCV School\fahrenheit to celsius\fahrenheit to celsius\fahrenheit to celsius.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\fahrenheit to celsius.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "fahrenheit to celsius.cpp"
+         fahrenheit to celsius.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Brian\Documents\Visual Studio 2010\CCV School\fahrenheit to celsius\Debug\fahrenheit to celsius.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\fahrenheit to celsius.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Brian\Documents\Visual Studio 2010\CCV School\fahrenheit to celsius\Debug\fahrenheit to celsius.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Brian\Documents\Visual Studio 2010\CCV School\fahrenheit to celsius\Debug\fahrenheit to celsius.lib" /MACHINE:X86 "Debug\fahrenheit to celsius.obj"
+         LINK : C:\Users\Brian\Documents\Visual Studio 2010\CCV School\fahrenheit to celsius\Debug\fahrenheit to celsius.exe not found or not built by the last incremental link; performing full link
+         fahrenheit to celsius.vcxproj -> C:\Users\Brian\Documents\Visual Studio 2010\CCV School\fahrenheit to celsius\Debug\fahrenheit to celsius.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Brian\Documents\Visual Studio 2010\CCV School\fahrenheit to celsius\Debug\fahrenheit to celsius.exe;#1" /manifest "Debug\fahrenheit to celsius.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\fahrenheit to celsius.unsuccessfulbuild".
+         Touching "Debug\fahrenheit to celsius.lastbuildstate".
+     1>Done Building Project "C:\Users\Brian\Documents\Visual Studio 2010\CCV School\fahrenheit to celsius\fahrenheit to celsius\fahrenheit to celsius.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.99

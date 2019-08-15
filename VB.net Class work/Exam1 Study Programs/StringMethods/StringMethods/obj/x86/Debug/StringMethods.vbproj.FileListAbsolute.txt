@@ -1,0 +1,33 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\StringMethods\bin\Debug\StringMethods.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\StringMethods\bin\Debug\StringMethods.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\StringMethods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\AppData\Local\Temporary Projects\StringMethods\obj\x86\Debug\StringMethods.Form1.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\StringMethods\obj\x86\Debug\StringMethods.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\StringMethods\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\AppData\Local\Temporary Projects\StringMethods\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\AppData\Local\Temporary Projects\StringMethods\obj\x86\Debug\StringMethods.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\StringMethods\obj\x86\Debug\StringMethods.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\StringMethods\obj\x86\Debug\StringMethods.pdb
+C:\Users\Brian\documents\visual studio 2010\Projects\StringMethods\StringMethods\obj\x86\Debug\StringMethods.exe
+C:\Users\Brian\documents\visual studio 2010\Projects\StringMethods\StringMethods\obj\x86\Debug\StringMethods.xml
+C:\Users\Brian\documents\visual studio 2010\Projects\StringMethods\StringMethods\obj\x86\Debug\StringMethods.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\StringMethods\StringMethods\bin\Debug\StringMethods.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\StringMethods\StringMethods\bin\Debug\StringMethods.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\StringMethods\StringMethods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\StringMethods\StringMethods\obj\x86\Debug\StringMethods.String_Methods.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\StringMethods\StringMethods\obj\x86\Debug\StringMethods.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\StringMethods\StringMethods\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\StringMethods\StringMethods\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\StringMethods\StringMethods\obj\x86\Debug\StringMethods.exe
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\StringMethods\StringMethods\obj\x86\Debug\StringMethods.xml
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\StringMethods\StringMethods\obj\x86\Debug\StringMethods.pdb
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\StringMethods\StringMethods\bin\Debug\StringMethods.exe
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\StringMethods\StringMethods\bin\Debug\StringMethods.xml
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\StringMethods\StringMethods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\StringMethods\StringMethods\obj\x86\Debug\StringMethods.String_Methods.resources
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\StringMethods\StringMethods\obj\x86\Debug\StringMethods.Resources.resources
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\StringMethods\StringMethods\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Desktop\Coding\Programs I wrote\VB Programs I wrote\Exam1 Study Programs\StringMethods\StringMethods\obj\x86\Debug\GenerateResource.write.1.tlog

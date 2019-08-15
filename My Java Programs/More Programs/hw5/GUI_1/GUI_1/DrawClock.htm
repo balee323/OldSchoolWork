@@ -1,0 +1,79 @@
+<HTML>
+<HEAD>
+<TITLE>Intro to Java Programming, 4E - DrawClock</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+</HEAD>
+<basefont size=5><pre><FONT COLOR="#008000">// DrawClock.java: Display a clock in JPanel
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.*;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.*;
+
+<FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> DrawClock <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JPanel {
+  <FONT COLOR="#000080"><B>private</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> hour;
+  <FONT COLOR="#000080"><B>private</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> minute;
+  <FONT COLOR="#000080"><B>private</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> second;
+  <FONT COLOR="#000080"><B>protected</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> xCenter, yCenter;
+  <FONT COLOR="#000080"><B>protected</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> clockRadius;
+
+  <FONT COLOR="#008000">/** Construct a clock panel */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> DrawClock(int hour, <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> minute, <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> second) {
+    this.hour = hour;
+    this.minute = minute;
+    this.second = second;
+  }
+
+  <FONT COLOR="#008000">/** Draw the clock */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> paintComponent(Graphics g) {
+    super.paintComponent(g);
+
+    <FONT COLOR="#008000">// Initialize clock parameters
+<FONT COLOR="#000000">    clockRadius =
+      (int)(Math.min(getWidth(), getHeight()) * 0.8 * 0.5);
+    xCenter = (getWidth()) / 2;
+    yCenter = (getHeight()) / 2;
+
+    <FONT COLOR="#008000">// Draw circle
+<FONT COLOR="#000000">    g.setColor(Color.black);
+    g.drawOval(xCenter - clockRadius,yCenter - clockRadius,
+      2 * clockRadius, 2 * clockRadius);
+    g.drawString("12", xCenter - 5, yCenter - clockRadius + 12);
+    g.drawString("9", xCenter - clockRadius + 3, yCenter + 5);
+    g.drawString("3", xCenter + clockRadius - 10, yCenter + 3);
+    g.drawString("6", xCenter - 3, yCenter + clockRadius - 3);
+
+    <FONT COLOR="#008000">// Draw second hand
+<FONT COLOR="#000000">    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> sLength = (int)(clockRadius * 0.8);
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> xSecond = (int)(xCenter + sLength *
+      Math.sin(second * (2 * Math.PI / 60)));
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> ySecond = (int)(yCenter - sLength * 
+      Math.cos(second * (2 * Math.PI / 60)));
+    g.setColor(Color.red);
+    g.drawLine(xCenter, yCenter, xSecond, ySecond);
+
+    <FONT COLOR="#008000">// Draw minute hand
+<FONT COLOR="#000000">    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> mLength = (int)(clockRadius * 0.65);
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> xMinute = (int)(xCenter + mLength *  
+      Math.sin(minute * (2 * Math.PI / 60)));
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> yMinute = (int)(yCenter - mLength * 
+      Math.cos(minute * (2 * Math.PI / 60)));
+    g.setColor(Color.blue);
+    g.drawLine(xCenter, yCenter, xMinute, yMinute);
+
+    <FONT COLOR="#008000">// Draw hour hand
+<FONT COLOR="#000000">    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> hLength = (int)(clockRadius * 0.5);
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> xHour = (int)(xCenter + hLength * 
+      Math.sin((hour + minute / 60.0) * (2 * Math.PI / 12)));
+    <FONT COLOR="#000080"><B>int</B></FONT><FONT COLOR="#000000"> yHour = (int)(yCenter - hLength * 
+      Math.cos((hour + minute / 60.0) * (2 * Math.PI / 12)));
+    g.setColor(Color.green);
+    g.drawLine(xCenter, yCenter, xHour, yHour);
+
+    <FONT COLOR="#008000">// Display current time in string
+<FONT COLOR="#000000">    g.setColor(Color.red);
+    String time = "Hour: " + hour + " Minute: " + minute +
+      " Second: " + second;
+    FontMetrics fm = g.getFontMetrics();
+    g.drawString(time, (getWidth() -
+      fm.stringWidth(time)) / 2, yCenter+clockRadius + 30);
+  }
+}
+</pre>

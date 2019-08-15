@@ -1,0 +1,14 @@
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1\Gratuity\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1\Gratuity\obj\x86\Debug\Gratuity.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1\Gratuity\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1\Gratuity\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1\Gratuity\bin\Debug\Gratuity.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1\Gratuity\bin\Debug\Gratuity.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1\Gratuity\bin\Debug\Gratuity.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1\Gratuity\obj\x86\Debug\Gratuity.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1\Gratuity\obj\x86\Debug\Gratuity.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1\Gratuity\obj\x86\Debug\Gratuity.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise1\Gratuity\obj\x86\Debug\Gratuity.FrmGratuity.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise2\Gratuity\obj\x86\Debug\Gratuity.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise2\Gratuity\obj\x86\Debug\Gratuity.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\Chapter5\Ch5Exercise2\Gratuity\obj\x86\Debug\Gratuity.pdb

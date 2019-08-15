@@ -1,0 +1,84 @@
+Brian Lee
+
+a. As a "rule of thumb", how much homework time could one expect to spend outside class and lab time?
+   
+  This is a 4 hour credit class, so common experience tells me for each 1 hour   credit add a additional 2 hours outside of class each day.
+  Thus I will spend at least 8-10 hours a week outside of class work.
+
+
+b. What is the test make up policy? And the quiz make up policy?
+
+	Make up tests are rarely given, discretion of instructor. 
+	There are no make up quizzes.
+
+
+c. How many files will you submit to blackboard for each assignment?
+
+	One zip file which contains a folder for the homework week.  Inside that folder are folder/files for each program.
+
+
+
+d. You can name your homework files anything that makes sense. True or False?
+    
+	This is false.
+
+
+e. Each program should be in a separate folder, even though it may have only one file. True or False?
+ 
+	Each program should have its own folder.
+	
+
+
+f. May one turn in part of the assignment on time and the rest late?
+
+	No, you can only submit once!
+
+
+g. What is the late penalty for a hw marked “late” by blackboard?
+
+	Penalty is 30 percent off the top before even grading.
+
+
+h. What is your grader's name? (look under blackboard "see my grades" icon)
+
+	Saurav is the grading TA, but actually Not seeing his name there yet.
+	
+
+i. List at least 5 hints for success in the course provided by the instructor in the course website.
+
+	Get Organizer
+	follow directions
+	be ready for class
+	read text carefully
+	keep up with the pace
+	Study regularly
+
+
+j. What should you do if you miss lecture and want to know what was covered?
+
+	I should contact a classmate.
+
+
+
+k. What is the date of the first quiz?
+
+	Thursday 6th sept is first quiz.	
+
+
+l. Homework may be emailed to the TA if the drop box is closed. True or False?
+
+	False, I may not email my TA the homework.
+	
+
+m. How many late coupons does each student get?
+	
+	Each student gets 2 coupons.
+
+n. Where (specifically) are the installation instructions for putting the course software on your machine?
+
+	Black Board, left hand menu, last hyperlink (software tools).
+
+o. Where (specifically) are the installation instructions for downloading a file from the CEMS (“M”) storage to your home computer. (What software is recommended to install on your home machine for this purpose?)
+
+	See computer software setup .pdf under software tools menu.
+

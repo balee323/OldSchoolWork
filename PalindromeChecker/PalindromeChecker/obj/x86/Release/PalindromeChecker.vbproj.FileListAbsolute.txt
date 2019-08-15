@@ -1,0 +1,9 @@
+C:\Users\Brian\AppData\Local\Temporary Projects\PalindromeChecker\bin\Release\PalindromeChecker.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\PalindromeChecker\bin\Release\PalindromeChecker.pdb
+C:\Users\Brian\AppData\Local\Temporary Projects\PalindromeChecker\bin\Release\PalindromeChecker.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\PalindromeChecker\obj\x86\Release\PalindromeChecker.Form1.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\PalindromeChecker\obj\x86\Release\PalindromeChecker.Resources.resources
+C:\Users\Brian\AppData\Local\Temporary Projects\PalindromeChecker\obj\x86\Release\PalindromeChecker.vbproj.GenerateResource.Cache
+C:\Users\Brian\AppData\Local\Temporary Projects\PalindromeChecker\obj\x86\Release\PalindromeChecker.exe
+C:\Users\Brian\AppData\Local\Temporary Projects\PalindromeChecker\obj\x86\Release\PalindromeChecker.xml
+C:\Users\Brian\AppData\Local\Temporary Projects\PalindromeChecker\obj\x86\Release\PalindromeChecker.pdb

@@ -1,0 +1,57 @@
+<HTML>
+<HEAD>
+<TITLE>Intro to Java Programming, 4E - TestActionEvent</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+</HEAD>
+<basefont size=5><pre><FONT COLOR="#008000">// TestActionEvent.java: Test ActionEvent
+<FONT COLOR="#000000"><FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> javax.swing.*;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.*;
+<FONT COLOR="#000080"><B>import</B></FONT><FONT COLOR="#000000"> java.awt.event.*;
+
+<FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> TestActionEvent <FONT COLOR="#000080"><B>extends</B></FONT><FONT COLOR="#000000"> JFrame {
+  <FONT COLOR="#008000">// Create two buttons
+<FONT COLOR="#000000">  <FONT COLOR="#000080"><B>private</B></FONT><FONT COLOR="#000000"> JButton jbtOk = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> JButton("OK");
+  <FONT COLOR="#000080"><B>private</B></FONT><FONT COLOR="#000000"> JButton jbtCancel = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> JButton("Cancel");
+
+  <FONT COLOR="#008000">/** Default constructor */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> TestActionEvent() {
+    <FONT COLOR="#008000">// Set the window title
+<FONT COLOR="#000000">    setTitle("TestActionEvent");
+
+    <FONT COLOR="#008000">// Set FlowLayout manager to arrange the components
+<FONT COLOR="#000000">    <FONT COLOR="#008000">// inside the frame
+<FONT COLOR="#000000">    getContentPane().setLayout(new FlowLayout());
+
+    <FONT COLOR="#008000">// Add buttons to the frame
+<FONT COLOR="#000000">    getContentPane().add(jbtOk);
+    getContentPane().add(jbtCancel);
+
+    <FONT COLOR="#008000">// Create a listener object
+<FONT COLOR="#000000">    ButtonListener btListener = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> ButtonListener();
+    
+    <FONT COLOR="#008000">// Register listeners
+<FONT COLOR="#000000">    jbtOk.addActionListener(btListener);
+    jbtCancel.addActionListener(btListener);
+  }
+
+  <FONT COLOR="#008000">/** Main method */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>static</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> main(String[] args) {
+    TestActionEvent frame = <FONT COLOR="#000080"><B>new</B></FONT><FONT COLOR="#000000"> TestActionEvent();
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.setSize(100, 80);
+    frame.setVisible(true);
+  }
+}
+
+<FONT COLOR="#000080"><B>class</B></FONT><FONT COLOR="#000000"> ButtonListener <FONT COLOR="#000080"><B>implements</B></FONT><FONT COLOR="#000000"> ActionListener {
+  <FONT COLOR="#008000">/** This method will be invoked when a button is clicked */<FONT COLOR="#000000">
+  <FONT COLOR="#000080"><B>public</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>void</B></FONT><FONT COLOR="#000000"> actionPerformed(ActionEvent e) {
+    <FONT COLOR="#000080"><B>if</B></FONT><FONT COLOR="#000000"> (e.getActionCommand().equals("OK")) {
+      System.out.println("The OK button is clicked");
+    }
+    <FONT COLOR="#000080"><B>else</B></FONT><FONT COLOR="#000000"> <FONT COLOR="#000080"><B>if</B></FONT><FONT COLOR="#000000"> (e.getActionCommand().equals("Cancel")) {
+      System.out.println("The Cancel button is clicked");
+    }
+  }
+}
+</pre>

@@ -1,0 +1,23 @@
+﻿Build started 7/6/2012 3:23:38 AM.
+     1>Project "C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 5\Part 4 guessing game\Part 4 guessing game\Part 4 guessing game.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Part 4 guessing game.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Part 4 guessing game.cpp"
+         Part 4 guessing game.cpp
+     1>c:\users\brian\documents\visual studio 2010\ccv school\week 5\part 4 guessing game\part 4 guessing game\part 4 guessing game.cpp(16): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 5\Part 4 guessing game\Debug\Part 4 guessing game.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Part 4 guessing game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 5\Part 4 guessing game\Debug\Part 4 guessing game.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 5\Part 4 guessing game\Debug\Part 4 guessing game.lib" /MACHINE:X86 "Debug\Part 4 guessing game.obj"
+         LINK : C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 5\Part 4 guessing game\Debug\Part 4 guessing game.exe not found or not built by the last incremental link; performing full link
+         Part 4 guessing game.vcxproj -> C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 5\Part 4 guessing game\Debug\Part 4 guessing game.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 5\Part 4 guessing game\Debug\Part 4 guessing game.exe;#1" /manifest "Debug\Part 4 guessing game.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Part 4 guessing game.unsuccessfulbuild".
+         Touching "Debug\Part 4 guessing game.lastbuildstate".
+     1>Done Building Project "C:\Users\Brian\Documents\Visual Studio 2010\CCV School\Week 5\Part 4 guessing game\Part 4 guessing game\Part 4 guessing game.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:27.67
