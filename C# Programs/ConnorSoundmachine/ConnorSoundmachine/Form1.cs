@@ -57,7 +57,7 @@ namespace ConnorSoundmachine
 
             System.Media.SoundPlayer player = new System.Media.SoundPlayer();
 
-            var rand = new Random();
+            var rand = new Random(DateTime.Now.Second);
             var selected = rand.Next(0, soundFiles.Count - 1);
 
             var fileLocation = soundFiles[selected].FullName;
