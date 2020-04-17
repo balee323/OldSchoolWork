@@ -30,30 +30,29 @@ char decision;  // for program loop
 
 do{   //for the while loop.
 
-double input1 =0, input2=0, input3=0, input4=0, input5=0; //local varibles for main function declared
+	double input1 =0, input2=0, input3=0, input4=0, input5=0; //local varibles for main function declared
 
-double output=0; //output varible for functions.
-
-
-readdata(input1, input2, input3, input4, input5); //local varibles are sent to readdata function
-
-docalc(input1, input2, input3, input4, input5, output); //local variables are sent to docalc funtion
-
-printresults(output); //varible is printed by print function
-
-//system ("pause");
+	double output=0; //output varible for functions.
 
 
+	readdata(input1, input2, input3, input4, input5); //local varibles are sent to readdata function
 
-cout << endl << endl;
-	cout << "Press Y and enter to repeat or any key and enter to exit program. " << endl;  //I have been adding this loop to all my programs to help with de-bugging.
-    cin >> decision;
-	cout << endl;
+	docalc(input1, input2, input3, input4, input5, output); //local variables are sent to docalc funtion
+
+	printresults(output); //varible is printed by print function
+
+	//system ("pause");
+
+
+		cout << endl << endl;
+		cout << "Press Y and enter to repeat or any key and enter to exit program. " << endl;  //I have been adding this loop to all my programs to help with de-bugging.
+		cin >> decision;
+		cout << endl;
 
 }while (decision =='y' || decision =='Y' );  //if decision is not equal to "lowercase n" then repeat program.  
 
 
-return(0);
+	return(0);
 
 } 
 
@@ -74,16 +73,17 @@ cin >> num1 >> num2 >> num3 >> num4 >> num5;  // 5 numbers stored into the varia
 
 void docalc(double num1, double num2, double num3, double num4, double num5, double& result) { // calculations are done on the passed through
 	                                                                                           // variables.
-
-result = ((num1+num2+num3+num4+num5)/ 5);  // average of 5 numbers
+	//the result gets "outed" as output variable.
+	//no wonder this confused the shit out of me back then
+	result = ((num1+num2+num3+num4+num5)/ 5);  // average of 5 numbers
 
 } 
 
 
 void printresults(double result) { // the result of the average is printed
 
-cout << endl;
-cout << "The average is: " << result << endl;
+	cout << endl;
+	cout << "The average is: " << result << endl;
 
 
 } 
