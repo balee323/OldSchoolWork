@@ -19,7 +19,7 @@ cout << "This program reads in numbers from an input file and \n"  //explains wh
 	<< "and results the numbers from smallest to largest \n"
 	<< "to an output file." << endl << endl;
 
-===========================================================
+//===========================================================
 
 
 
@@ -40,8 +40,7 @@ exit (1);
 
  
 
-
-					
+			
 while (instream >> num[0]){
 	cin >> num[0];
 }
