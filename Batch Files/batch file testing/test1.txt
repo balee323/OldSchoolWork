@@ -1,9 +1,0 @@
-open 192.10.20.101
-Login
-password
-lcd C:/test/downloadFolder/
-prompt
-ls C:/test/Lawson//ap_2x3_*.*
-mget C:/test/Lawson//ap_2x3_*.*
-mdel C:/test/Lawson//ap_2x3_*.*
-bye
